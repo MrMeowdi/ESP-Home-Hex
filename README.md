@@ -44,23 +44,28 @@ All set , you are now connected to ESP Home Hex and can operate it and perform a
  
 ## Images
  
-(IMAGE)
+<img width="973" height="793" alt="image" src="https://github.com/user-attachments/assets/0216d9d6-ddfe-4d95-8628-2b5c3b74770c" />
+
+
  
-(IMAGE)
+<img width="1400" height="573" alt="image" src="https://github.com/user-attachments/assets/3a5d607d-6615-4275-bbc9-3bce427e3812" />
+
  
-(IMAGE)
+<img width="796" height="641" alt="image" src="https://github.com/user-attachments/assets/f79108bc-4561-4d2d-bb93-ef7b6eaaccb3" />
+
  
-(IMAGE)
+<img width="1121" height="858" alt="image" src="https://github.com/user-attachments/assets/751cf9a6-b6b1-486a-9638-e0f63e2bf778" />
+
  
-(IMAGE)
+<img width="997" height="619" alt="image" src="https://github.com/user-attachments/assets/064ec578-3dc3-430a-9ca4-3449eb6a7d41" />
+
  
-(IMAGE)
- 
-(IMAGE)
- 
-(IMAGE)
- 
-(IMAGE)
+<img width="4096" height="3293" alt="image" src="https://github.com/user-attachments/assets/ca0a49bb-48da-4f8a-b5ce-50f91a5d9986" />
+
+<img width="1689" height="825" alt="image" src="https://github.com/user-attachments/assets/a19729d7-a19d-4bfa-80aa-3ca19f0e0937" />
+<img width="1683" height="823" alt="image" src="https://github.com/user-attachments/assets/d85074e9-1ec9-4fae-9a04-11ae2f6e28f4" />
+<img width="1683" height="823" alt="image" src="https://github.com/user-attachments/assets/8ffe0686-5251-4e08-8ff8-81c13c936514" />
+
  
 ## JLCPCB
  
